@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to beatiful house and fill the details</h1>
+      <h1>Welcome to beatiful house and fill the details below</h1>
       <p>Transforming spaces into your our house</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
